@@ -1,1 +1,1 @@
-"# networking-mynotes-kt" 
+My Quotes App for exercise networking
